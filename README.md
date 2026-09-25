@@ -64,8 +64,7 @@ src="https://moitruonghopnhat.com/uploads/images/Dich-vu/lap-ho-so-danh-gia-tac-
 <figcaption><em>Lập hồ sơ đánh giá tác động môi trường</em></figcaption>
 </figure>
 
-*Việc lập báo cáo ĐTM đúng ngay từ đầu vì vậy có ý nghĩa quan trọng đối
-với cả tiến độ pháp lý lẫn việc thiết kế các hạng mục bảo vệ môi trường của dự án.*
+*Việc lập báo cáo ĐTM đúng ngay từ đầu vì vậy có ý nghĩa quan trọng đối với cả tiến độ pháp lý lẫn việc thiết kế các hạng mục bảo vệ môi trường của dự án.*
 
 
 ## 2. Cơ sở pháp lý về lập báo cáo đánh giá tác động môi trường
@@ -80,7 +79,6 @@ Nghị định số 08/2022/NĐ-CP ngày 10/01/2022 của Chính phủ quy đị
 
 ### 2.3. Nghị định số 05/2025/NĐ-CP và Nghị định số 48/2026/NĐ-CP
 Các văn bản này tiếp tục sửa đổi, bổ sung những quy định liên quan đến việc triển khai Luật Bảo vệ môi trường và Nghị định số 08/2022/NĐ-CP.
-
 Khi xác định một dự án có phải lập ĐTM hay không, không nên chỉ căn cứ vào một văn bản riêng lẻ mà cần đối chiếu đồng thời các quy định sửa đổi đang có hiệu lực.
 
 ### 2.4. Thông tư số 09/2026/TT-BNNMT
@@ -131,8 +129,7 @@ src="https://moitruonghopnhat.com/uploads/images/Dich-vu/noi-dung-bao-cao-danh-g
 <figcaption><em>Nội dung báo cáo đánh giá tác động môi trường (ảnh minh họa)</em></figcaption>
 </figure>
 
-*Điểm quan trọng là các nội dung này phải thống nhất với thiết kế, công
-suất, công nghệ và kế hoạch đầu tư thực tế của dự án.*
+*Điểm quan trọng là các nội dung này phải thống nhất với thiết kế, công suất, công nghệ và kế hoạch đầu tư thực tế của dự án.*
 
 
 ## 4. Dịch vụ lập hồ sơ báo cáo đánh giá tác động môi trường theo quy định
@@ -214,7 +211,6 @@ src="https://moitruonghopnhat.com/uploads/images/Dich-vu/loi-ich-khi-su-dung-dic
 </figure>
 
 Bên cạnh [dịch vụ lập hồ sơ báo cáo đánh giá tác động môi trường](https://moitruonghopnhat.com/dich-vu-tu-van-lap-bao-cao-dtm-1087/), Hợp Nhất có thể tiếp tục đồng hành cùng doanh nghiệp trong các thủ tục và công việc môi trường ở những giai đoạn tiếp theo của dự án, qua đó giúp duy trì sự thống nhất giữa hồ sơ pháp lý và hoạt động thực tế.
-
 
 ---
 
