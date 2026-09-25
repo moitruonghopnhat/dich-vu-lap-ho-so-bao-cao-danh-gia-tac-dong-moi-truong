@@ -64,6 +64,7 @@ src="https://moitruonghopnhat.com/uploads/images/Dich-vu/lap-ho-so-danh-gia-tac-
 <figcaption><em>Lập hồ sơ đánh giá tác động môi trường</em></figcaption>
 </figure>
 
+
 *Việc lập báo cáo ĐTM đúng ngay từ đầu vì vậy có ý nghĩa quan trọng đối với cả tiến độ pháp lý lẫn việc thiết kế các hạng mục bảo vệ môi trường của dự án.*
 
 
