@@ -87,9 +87,7 @@ Khi xác định một dự án có phải lập ĐTM hay không, không nên ch
 Từ ngày 29/01/2026, mẫu báo cáo đánh giá tác động môi trường được cập nhật theo Mẫu số 04 tại Mục 1 Phụ lục ban hành kèm theo **Thông tư số 09/2026/TT-BNNMT**. Mẫu này thay thế Mẫu số 04 trước đây tại Phụ lục II của Thông tư số 02/2022/TT-BTNMT.
 
 ### 2.5. Nghị quyết số 66.19/2026/NQ-CP
-Đây là một trong những văn bản doanh nghiệp cần đặc biệt lưu ý trong năm
-2026. Nghị quyết này được Chính phủ ban hành ngày 18/05/2026, trong đó
-có các nội dung liên quan đến cắt giảm, đơn giản hóa đối tượng phải thực hiện ĐTM và phân quyền thẩm định báo cáo ĐTM. Nghị quyết có thời hạn áp dụng theo quy định tại chính văn bản và cần được đối chiếu khi thực hiện hồ sơ trong giai đoạn hiện nay.
+Đây là một trong những văn bản doanh nghiệp cần đặc biệt lưu ý trong năm 2026. Nghị quyết này được Chính phủ ban hành ngày 18/05/2026, trong đó có các nội dung liên quan đến cắt giảm, đơn giản hóa đối tượng phải thực hiện ĐTM và phân quyền thẩm định báo cáo ĐTM. Nghị quyết có thời hạn áp dụng theo quy định tại chính văn bản và cần được đối chiếu khi thực hiện hồ sơ trong giai đoạn hiện nay.
 
 <figure>
 <img
@@ -97,8 +95,7 @@ src="https://moitruonghopnhat.com/uploads/images/Bai-viet/cap-nhat-nghi-quyet-66
 <figcaption><em>Nghị quyết 66.19/2026/NQ-CP</em></figcaption>
 </figure>
 
-*Các văn bản pháp luật về môi trường hiện nay có nhiều thay đổi, doanh
-nghiệp nên rà soát quy định tại thời điểm thực hiện dự án, thay vì áp dụng máy móc hồ sơ hoặc quy trình đã từng sử dụng cho các dự án trước đây.*
+*Các văn bản pháp luật về môi trường hiện nay có nhiều thay đổi, doanh nghiệp nên rà soát quy định tại thời điểm thực hiện dự án, thay vì áp dụng máy móc hồ sơ hoặc quy trình đã từng sử dụng cho các dự án trước đây.*
 
 ### Cần hỗ trợ nhanh?
 
